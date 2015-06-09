@@ -1,2 +1,3 @@
-# datasciencecoursera
-Coursera Data Science Track
+## datasciencecoursera
+
+Currently completing 'The Data Scientist’s Toolbox'.
